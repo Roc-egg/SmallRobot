@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hp.smallrobot.MainActivity">
+    <item
+        android:id="@+id/action_yy_fyr"
+        android:orderInCategory="100"
+        android:title="@string/action_yy_fyr"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action__yy_hc"
+        android:orderInCategory="100"
+        android:title="@string/action_yy_hc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_yy_lj"
+        android:orderInCategory="100"
+        android:title="@string/action_yy_lj"
+        app:showAsAction="never" />
+</menu>
