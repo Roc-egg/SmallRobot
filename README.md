@@ -7,7 +7,7 @@
 电脑模拟器没有麦，以后再补上GIF图
 
 ###二维码下载
-  ![image](/demo_res/二维码.png)
+ ![image](/demo_res/二维码.png)
 （[下载 apk](https://github.com/Roc-egg/SmallRobot/raw/master/demo_res/demo.apk)）
 
 ###简单说明
